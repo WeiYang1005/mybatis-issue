@@ -20,5 +20,5 @@
   ####  The Usage of this test demo:
 
 ```
-    maven compile -> run UserTest.java
+    maven compile -> run mybatis-issue/src/test/java/test/.java
 ```
